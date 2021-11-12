@@ -2,6 +2,7 @@ package main
 
 import (
 	"os"
+	"time"
 
 	"sigs.k8s.io/kustomize/kyaml/fn/framework"
 	"sigs.k8s.io/kustomize/kyaml/fn/framework/command"
